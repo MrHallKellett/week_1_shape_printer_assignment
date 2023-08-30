@@ -6,7 +6,9 @@
 
 _Write a Python program to meet these requirements:_
 
-Your task is to create a program that will print shapes on the screen.
+Your task is to create a program that will print shapes on the screen using ASCII characters.
+
+This task can be completed as long as you have a basic understanding of loops, if/else statements, variables, data types and basic Python built-in functions and operators.
 
 Here are some examples of shapes that could be drawn by the program:
 
